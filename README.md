@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Khanoo (Emranullah Rasoli) 💻✨</h1>
+  <h1>👋 Hi, I'm (Emranullah Rasoli) 💻✨</h1>
   <p><em>Full-Stack Web Developer | Laravel & React Enthusiast | Building Real-World Systems 🚀</em></p>
   <p>A passionate developer focused on crafting scalable web apps, clean UI/UX, and secure backend systems.</p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Coding Animation" />
